@@ -33,8 +33,10 @@ nav ul li a:hover {
     color: rgb(90, 250, 255);
     letter-spacing: 1px;
 }
-.container a img {
-    margin: 10px;
-    width: 4%;
-    height: 4%;
+nav img{
+    height: 40px;
+    width: 40px;
+    top: 100px;
+    right: 4px;
 }
+

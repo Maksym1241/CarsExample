@@ -56,3 +56,6 @@ nav .logo img {
     justify-content: center;
     flex-grow: 1;
 }
+header div ul li a {
+    text-decoration: none;
+}
